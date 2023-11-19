@@ -1,0 +1,7 @@
+#header,
+#sidebar,
+footer,
+.no-print {
+    display: none;
+    visibility: hidden;
+}
